@@ -215,6 +215,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA) - Mixture-of-Experts for Large Vision-Language Models
 - [LLaVA](https://llava-vl.github.io/) - a novel end-to-end trained large multimodal model that combines a vision encoder and Vicuna for general-purpose visual and language understanding
 - [TaskMatrix](https://github.com/microsoft/visual-chatgpt) - connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting
+- [Llama-3.2-11B-Vision-Instruct-TagRater](https://huggingface.co/Pixuai/Llama-3.2-11B-Vision-Instruct-TagRater) - a merged multi-modal model that rates images based on tagwords
 
 ### Evaluation
 - [Humanity's Last Exam](https://agi.safe.ai/) - a multi-modal benchmark at the frontier of human knowledge, designed to be the final closed-ended academic benchmark of its kind with broad subject coverage
